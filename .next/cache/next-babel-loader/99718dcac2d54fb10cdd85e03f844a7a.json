@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { Layout } from './layouts';","map":{"version":3,"sources":["/Users/beb/Code/challenges/bwell/components/index.ts"],"names":["Layout"],"mappings":"AAAA,SAASA,MAAT,QAAuB,WAAvB","sourcesContent":["export { Layout } from './layouts';"]},"metadata":{},"sourceType":"module"}
